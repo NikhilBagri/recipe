@@ -2,6 +2,8 @@
 
 Recipedia is a web application built using React, HTML, CSS, and JavaScript. It allows users to search for various recipes and displays the results as articles fetched from the Edamam Recipe API. Users can select an article and view the detailed recipe information.
 
+To view the site, simply access the live demo hosted on https://recipe-mauve.vercel.app/.
+
 ## Features
 
 1. Search for recipes: Users can enter their desired recipe in the search bar, and Recipedia sends a request to the Admam Recipe API to retrieve relevant articles based on the search query.
